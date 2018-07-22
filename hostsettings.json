@@ -1,0 +1,27 @@
+{
+  "Host": {
+    "ProfitTrailerFolder1": "/var/opt/pt",
+    "ProfitTrailerApiEndPoint1": "http://localhost:8081", 
+    "HostName": "New Better Bot", 
+    "LicenseKey": "A6BA-8EBB-41BC-496C-84FB-096F-507D", 
+    "CalculateTrailingValues": "true",
+    "TelegramBotId": "", 
+    "TelegramChatId": "", 
+    "DiscordBotToken": "", 
+    "DiscordChatName": "", 
+    "TestMode": "false" 
+  },
+
+  "Email": {
+    "ImapServer": "imap.gmail.com",
+    "ImapPort": "993",
+    "ImapUsername": "",
+    "ImapPassword": "",
+    "FromAddress": "noreply@tradingview.com", 
+    "Subject": "TradingView Alert" 
+  },
+
+  "Serilog": {
+    "MinimumLevel": "Information" 
+  }
+}
